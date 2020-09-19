@@ -8,6 +8,8 @@ At this point, a connection was made to the Mongo DB Compass Community to establ
 Next, a by_zip collection was created that has a document for each zip code, showing census data for that zip code, then an array with each food truck and its basic business information within that zip code.
 
 
+<p align="center">
+  <img width="460" height="300" src="Resources/Food-Truck.jpg">
+</p>
 
 
-![Image](Resources/Food-Truck.jpg)
